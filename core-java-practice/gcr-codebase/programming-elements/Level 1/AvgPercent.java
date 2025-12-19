@@ -1,9 +1,9 @@
 public class AvgPercent {
     public static void main(String[] args) {
-        double Maths = 94;
-        double Physics = 95;
-        double Chemistry = 96;
-        double avg = (Maths+Chemistry+Physics) / 3 ;
+        double maths = 94;
+        double physics = 95;
+        double chemistry = 96;
+        double avg = (maths+chemistry+physics) / 3 ;
         System.out.println("Sam's average mark in PCM is : " + avg);
 
     }
