@@ -1,4 +1,4 @@
-# **Daily Progress Log** – **BridgeLabz(**2215001139)
+# Daily Progress Log – BridgeLabz(2215001139)
 
 
 
