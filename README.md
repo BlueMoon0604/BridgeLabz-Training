@@ -10,7 +10,7 @@
 
 
 
-###### Week 1: Starting with Git and Java Fundamentals
+##### Week 1: Starting with Git and Java Fundamentals
 
 
 
@@ -37,6 +37,120 @@ Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/c
 • **20-Dec-2025 (Saturday):** Submitted problems related to control-flow on GitHub. Here it is link :  https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
 
 Got understanding of arrays in java and pushed all levels of array problems on GitHub. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays
+
+
+
+##### Week 2: Core Java Programming Concepts
+
+
+
+• **22-Dec-2025 (Monday):** Started with java strings . Learnt about programming concepts in strings like basic string concepts, escape sequences, exception handling etc. 
+
+
+
+• **23-Dec-2025 (Tuesday):** Continue Working on java strings. Solved and submitted problems related to strings using java.
+
+Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
+
+Also, get to know about Trello Board which helps to track tasks, monitor progress and improve productivity. Solved scenario based questions using loops.
+
+
+
+• **24-Dec-2025 (Wednesday):** Studied about java methods and their types like user defined methods and recursive methods . Properly structured repository and folder according to structure given by trainers.
+
+
+
+• **26-Dec-2025 (Friday):** Submitted assignment of java methods. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods 
+
+Learnt about common java built-in functions as well as date \& time built-in functions.
+
+
+
+• **27-Dec-2025 (Saturday):** Submitted extra java strings practice problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
+
+
+
+##### Week 3: Core Java Completed -> Object-Oriented Programming Journey
+
+
+
+• **29-Dec-2025 (Monday):** Submitted problems based on built-in functions using java. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
+
+Submitted all scenario based problems and LeetCode problems . Here is the link for scenario based problems :https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+
+LeetCode Problems : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebased
+
+Also, submitted employee wage problem . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/EmployeeWage.java
+
+
+
+• **30-Dec-2025 (Tuesday):** Completed both line comparison problem and snake \& ladder problem using java . here is the link : 
+
+Line Comparison Problem : https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LineComparison.java
+
+Snake \& Ladder Problem : https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/SnakeAndLadder.java
+
+Started with object-oriented programming concepts. Got the basic understanding of java classes and objects.
+
+
+
+• **31-Dec-2025 (Wednesday):** Studied java constructors, instance vs class variables and access modifiers .Submitted problems related to java objects and classes . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object
+
+
+
+• **01-Jan-2026 (Thursday):** Submitted problems related to java constructors . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor
+
+https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/instance
+
+https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/access-modifier
+
+Completed new material on this, static, final key words and instance . 
+
+
+
+• **02-Jan-2026 (Friday):** Done submission of assignment on this, static, final key words . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final
+
+Designed object \& class models and submitted them using Excalidraw . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design
+
+Done with new material on topic inheritance .   
+
+
+
+• **03-Jan-2026 (Saturday):** Submitted inheritance problems using java . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance
+
+Solved scenario based problems on oops concept . 
+
+
+
+##### Week 4: Continuing The OOPs Journey In Java
+
+
+
+• **05-Jan-2026 (Monday):** Worked on Assignment based on important oops concepts like encapsulation, polymorphism. Solved few scenario based problems using java. 
+
+
+
+• **06-Jan-2026 (Monday):** Submitted assignment on encapsulation, polymorphism. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism
+
+In addition to this, submitted LeetCode and scenario based problems. Here it is the link : LeetCode Problems => https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
+
+Scenario Based Problems => https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+
+
 
 
 
