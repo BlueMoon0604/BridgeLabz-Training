@@ -122,7 +122,7 @@ Solved scenario based problems on oops concept .
 
 
 
-##### Week 4: Continuing The OOPs Journey In Java
+##### Week 4: From Objects to Algorithms: A Journey into DSA
 
 
 
@@ -135,6 +135,18 @@ Solved scenario based problems on oops concept .
 In addition to this, submitted LeetCode and scenario based problems. Here it is the link : LeetCode Problems => https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
 
 Scenario Based Problems => https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+
+
+• **07-Jan-2026 (Wednesday):Started with Data Structures and Algorithm concept. Done and submitted two story based problems . Here it is the link :**
+
+**Problem 1 : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/cab\_booking**
+
+**Problem 2 : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/bankSystemManagement**
+
+
+
+• **08-Jan-2026 (Thursday):** Solved and submitted linked list questions. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list
 
 
 
