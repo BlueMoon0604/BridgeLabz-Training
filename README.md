@@ -9,8 +9,7 @@
 ###### by week with thematic headings, detailing the work done on each date and day.
 
 
-
-###### Structure Of GitHub : "C:\\BridgeLabz-Training\\Structure Of Github.png"
+![Structure Of GitHub](./structure.png)
 
 
 
