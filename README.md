@@ -10,6 +10,10 @@
 
 
 
+###### Structure Of GitHub : "C:\\BridgeLabz-Training\\Structure Of Github.png"
+
+
+
 ##### Week 1: Starting with Git and Java Fundamentals
 
 
@@ -147,6 +151,24 @@ Scenario Based Problems => https://github.com/BlueMoon0604/BridgeLabz-Training/t
 
 
 • **08-Jan-2026 (Thursday):** Solved and submitted linked list questions. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list
+
+
+
+• **09-Jan-2026 (Friday):** Studied about stack, queue and hashMap. Solved and submitted oops-based scenario problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+
+
+##### Week 4: From Objects to Algorithms: A Journey into DSA
+
+
+
+• **12-Jan-2026 (Monday):** Worked on more crud operation based scenario problems. Solved leetcode problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
+
+
+
+• **13-Jan-2026 (Tuesday):** Submitted crud operation based scenario problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+
 
 
 
