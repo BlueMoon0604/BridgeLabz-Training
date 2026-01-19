@@ -1,6 +1,8 @@
- Daily Progress Log – BridgeLabz(2215001139)
+Daily Progress Log – BridgeLabz(2215001139)
 
 
+
+Overview :-
 
 This log documents the daily progress of tasks completed during the BridgeLabz training
 
@@ -9,8 +11,123 @@ program (ID: 2215001139), as recorded in the repository’s README. Tasks are gr
 by week with thematic headings, detailing the work done on each date and day.
 
 
-![Structure Of GitHub](./structure.png)
 
+Folder Structure :-
+
+
+BridgeLabz-Training/
+│
+├── core-java-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   ├── control-flow/
+│   │   ├── extras/
+│   │   ├── methods/
+│   │   ├── programming-elements/
+│   │   └── string/
+│   │
+│   ├── leet-code-codebase/
+│   │
+│   └── scenario-based/
+│
+├── oops-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   ├── class-and-object/
+│   |   ├── constructor/
+│   │   ├── inheritance/
+│   │   ├── encapsulation/
+│   │   ├── keywords/
+│   │   ├── uml-diagram/
+│   │   └── polymorphism/
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+│
+├── dsa-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   ├── linked-list/
+│   |   ├── sorting-algorithm/
+│   │   └── stack-queue/
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+│
+├── reviews/
+│
+└── README.md
+
+
+
+Core Java Programming Scenario Based :
+
+1. BMI Fitness Tracker
+
+2. Bus Route
+
+3. Digital Watch
+
+4. Easy Coffee Counter
+
+5. Election Booth
+
+6. Employee Wages
+
+7. Lucky Festival
+
+8. Line Comparision
+
+9. Metro Smart Card
+
+10. Movie Ticket
+
+11. Rohan Library
+
+12. Sandeep Fitness 
+
+13. Snake and Ladder
+
+
+Object Oriented Programming Scenario Based :
+
+1. Cab Booking 
+
+2. Digit Wallet Booking
+
+3. Vehicle Rental App
+
+4. Traffic Manager
+
+5. Student Course System
+
+6. Real Book Arrangement
+
+7. Online Voting System
+
+8. Online Exam System 
+
+9. Library Management
+
+10. Inventory Management 
+
+11. Hotel Reservation 
+
+12. Hospital Management
+
+13. Flight Booking System
+
+14. Event Manager
+
+15. ECommerce Management
+
+16.Bank System Management
+
+
+Weekly Progress :-
 
 
 Week 1: Starting with Git and Java Fundamentals
@@ -29,7 +146,9 @@ Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/c
 Got understanding of arrays in java and pushed all levels of array problems on GitHub. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays
 
 
+
 Week 2: Core Java Programming Concepts
+
 
 
 • 22-Dec-2025 (Monday): Started with java strings . Learnt about programming concepts in strings like basic string concepts, escape sequences, exception handling etc.
@@ -45,7 +164,9 @@ Learnt about common java built-in functions as well as date \& time built-in fun
 • 27-Dec-2025 (Saturday): Submitted extra java strings practice problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
 
 
+
 Week 3: Core Java Completed -> Object-Oriented Programming Journey
+
 
 
 • 29-Dec-2025 (Monday): Submitted problems based on built-in functions using java. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
@@ -73,7 +194,9 @@ Designed object \& class models and submitted them using Excalidraw . Here it is
 Solved scenario based problems on oops concept .
 
 
+
 Week 4: From Objects to Algorithms: A Journey into DSA
+
 
 
 • 05-Jan-2026 (Monday): Worked on Assignment based on important oops concepts like encapsulation, polymorphism. Solved few scenario based problems using java.
@@ -84,23 +207,45 @@ Scenario Based Problems => https://github.com/BlueMoon0604/BridgeLabz-Training/t
 
 • 07-Jan-2026 (Wednesday):Started with Data Structures and Algorithm concept. Done and submitted two story based problems . Here it is the link :
 
-Problem 1 : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/cab\_booking**
+Problem 1 : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/cab\_booking\*\*
 
-Problem 2 : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/bankSystemManagement**
+Problem 2 : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/bankSystemManagement\*\*
 
 • 08-Jan-2026 (Thursday): Solved and submitted linked list questions. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list
 
 • 09-Jan-2026 (Friday): Studied about stack, queue and hashMap. Solved and submitted oops-based scenario problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
 
 
+
 Week 5: Wrapping Up OOPs And Continuing DSA
+
 
 
 • 12-Jan-2026 (Monday): Worked on more crud operation based scenario problems. Solved leetcode problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
 
 • 13-Jan-2026 (Tuesday): Submitted crud operation based scenario problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
 
+Learnt about sorting alogorithms.
+
+• 14-Jan-2026 (Wednesday): Submitted stack, queue and hashMap problems .
+Here it is the link :
+
+=> Stack and Queue : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue
+=> HashMap : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmap
+
+• 15-Jan-2026 (Thrusday): Implemented and Submitted sorting alogorithm problems . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithm
+
+Studied about various topics like linear search, binary search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader . Also, Learnt about four - architecture in java (Presentation Layer, Service Layer, DAO Layer, Model Layer).
+
+• 16-Jan-2026 (Friday): Understanded the algorithm's runtime analysis and big- O notation.
+
+• 17-Jan-2026 (Saturday): Submitted searching problems using java . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/searching
 
 
 
+Week 6: Focusing On Data Structures And Algorithms
+
+
+
+• 19-Jan-2026 (Monday): Submitted algorithm's runtime analysis and big-O notation problems . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/alorithm-runtime-analysis
 
