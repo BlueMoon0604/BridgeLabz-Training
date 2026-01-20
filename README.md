@@ -243,9 +243,15 @@ Studied about various topics like linear search, binary search, StringBuilder, S
 
 
 
-Week 6: Focusing On Data Structures And Algorithms
+Week 6: Data Structures And Algorithms And Collection FrameWorks
 
 
 
 • 19-Jan-2026 (Monday): Submitted algorithm's runtime analysis and big-O notation problems . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/alorithm-runtime-analysis
+
+Submitted Address Book Problem using various concepts . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address_book
+
+• 20-Jan-2026 (Tuesday): Submitted scenario based problems using dsa, oops and core java concepts . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based
+
+
 
