@@ -15,119 +15,237 @@ by week with thematic headings, detailing the work done on each date and day.
 Folder Structure :-
 
 
-BridgeLabz-Training/
+
+BridgeLabz-Training
+
+
+
 │
-├── core-java-practice/
-│   │
-│   ├── gcr-codebase/
-│   │   ├── arrays/
-│   │   ├── control-flow/
-│   │   ├── extras/
-│   │   ├── methods/
-│   │   ├── programming-elements/
-│   │   └── string/
-│   │
-│   ├── leet-code-codebase/
-│   │
-│   └── scenario-based/
+
+
+
+├── core-java-practice (branch \& folder)
+
+
+
+│ │
+
+
+
+│ ├── gcr-codebase
+
+
+
+│ | ├── arrays
+
+
+
+│ │ ├── control-flow
+
+
+
+│ │ ├── extras
+
+
+
+│ │ ├── methods
+
+
+
+│ │ ├── programming-elements
+
+
+
+│ | └── strings
+
+
+
+│ │
+
+
+
+│ ├── scenario-based
+
+
+
+│ │
+
+
+
+│ └── leet-code-codebase
+
+
+
+|
+
+
+
+├── oops-practice (branch \& folder)
+
+
+
+│ │
+
+
+
+│ ├── gcr-codebase
+
+
+
+| | ├── access-modifier
+
+
+
+| | ├── class-object
+
+
+
+| | ├── constructor
+
+
+
+│ │ ├── inheritance
+
+
+
+│ │ ├── instance
+
+
+
+| | ├── object-oriented-design
+
+
+
+| | ├── encapsulation-polymorphism
+
+
+
+│ │ └── this-static-final
+
+
+
+│ │
+
+
+
+│ ├── scenario-based
+
+
+
+│ │
+
+
+
+│ └── leet-code-codebase
+
+
+
 │
-├── oops-practice/
-│   │
-│   ├── gcr-codebase/
-│   │   ├── class-and-object/
-│   |   ├── constructor/
-│   │   ├── inheritance/
-│   │   ├── encapsulation/
-│   │   ├── keywords/
-│   │   ├── uml-diagram/
-│   │   └── polymorphism/
-│   │
-│   ├── scenario-based/
-│   │
-│   └── leet-code-codebase/
+
+
+
+├── dsa-practice (branch \& folder)
+
+
+
+│ │
+
+
+
+│ ├── gcr-codebase
+
+
+
+| | ├── linked-list
+
+
+
+| | ├── hashmap
+
+
+
+| | ├── searching
+
+
+
+| | ├── sorting-algorithm
+
+
+
+| | ├── stack-queue
+
+
+
+| | └── algorithm-runtime-analysis
+
+
+
+│ ├── scenario-based
+
+
+
+│ │
+
+
+
+│ └── leet-code-codebase
+
+
+
 │
-├── dsa-practice/
-│   │
-│   ├── gcr-codebase/
-│   │   ├── linked-list/
-│   |   ├── sorting-algorithm/
-│   │   └── stack-queue/
-│   │
-│   ├── scenario-based/
-│   │
-│   └── leet-code-codebase/
-│
-├── reviews/
-│
-└── README.md
+
+
+
+├── reviews (branch)
+
+
+
+
 
 
 
 Core Java Programming Scenario Based :
 
 1. BMI Fitness Tracker
-
 2. Bus Route
-
 3. Digital Watch
-
 4. Easy Coffee Counter
-
 5. Election Booth
-
 6. Employee Wages
-
 7. Lucky Festival
-
 8. Line Comparision
-
 9. Metro Smart Card
-
 10. Movie Ticket
-
 11. Rohan Library
-
-12. Sandeep Fitness 
-
+12. Sandeep Fitness
 13. Snake and Ladder
+
 
 
 Object Oriented Programming Scenario Based :
 
-1. Cab Booking 
-
+1. Cab Booking
 2. Digit Wallet Booking
-
 3. Vehicle Rental App
-
 4. Traffic Manager
-
 5. Student Course System
-
 6. Real Book Arrangement
-
 7. Online Voting System
-
-8. Online Exam System 
-
+8. Online Exam System
 9. Library Management
-
-10. Inventory Management 
-
-11. Hotel Reservation 
-
+10. Inventory Management
+11. Hotel Reservation
 12. Hospital Management
-
 13. Flight Booking System
-
 14. Event Manager
-
 15. ECommerce Management
 
 16.Bank System Management
 
 
+
 Weekly Progress :-
+
 
 
 Week 1: Starting with Git and Java Fundamentals
@@ -249,9 +367,15 @@ Week 6: Data Structures And Algorithms And Collection FrameWorks
 
 • 19-Jan-2026 (Monday): Submitted algorithm's runtime analysis and big-O notation problems . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/alorithm-runtime-analysis
 
-Submitted Address Book Problem using various concepts . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address_book
+Submitted Address Book Problem using various concepts . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address\_book
 
 • 20-Jan-2026 (Tuesday): Submitted scenario based problems using dsa, oops and core java concepts . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based
+
+Studied about new topic : Java Generics . Also, made new branch named collections-practice for java collection framework .
+
+• 21-Jan-2026 (Wednesday): Submitted problems related to java generics . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics
+
+
 
 
 
