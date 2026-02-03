@@ -1,0 +1,10 @@
+{
+  "name": "Nova",
+  "age": 21,
+  "email": "nova@gmail.com",
+  "subjects": ["Math", "CS"],
+  "address": {
+    "city": "Dublin",
+    "pin": 110001
+  }
+}

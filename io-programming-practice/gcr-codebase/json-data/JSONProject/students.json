@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Nova",
+        "age": 21,
+        "email": "nova@gmail.com",
+        "department": "Computer Science"
+    },
+    {
+        "name": "Eric",
+        "age": 22,
+        "email": "eric123@example.com",
+        "department": "Mathematics"
+    },
+	{
+		"name" : "Raven",
+		"age" : 28,
+		"email" : "raven23@gmail.com",
+		"department" : "GK"
+	}
+]
