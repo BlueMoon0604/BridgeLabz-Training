@@ -20,7 +20,7 @@ public class Account {
         }
     }
     public String toString() {
-        return "Account No: " + accountNumber + ", Balance: ₹" + balance;
+        return "Account No: " + accountNumber + ", Balance: Rs" + balance;
     }
 }
 

@@ -33,8 +33,7 @@ public class CachingSystem {
         System.out.println(getCachedResult(calc, "slowSquare", 6));
         System.out.println(getCachedResult(calc, "slowSquare", 5));
     }
-    public static Object getCachedResult(Object obj, String methodName, int param)
-            throws Exception {
+    public static Object getCachedResult(Object obj, String methodName, int param) throws Exception {
 
         Method method = obj.getClass().getMethod(methodName, int.class);
         String key = methodName + "_" + param;
