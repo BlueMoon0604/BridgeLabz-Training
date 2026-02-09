@@ -1,0 +1,115 @@
+SonarQube Documentation
+
+Steps of Integration :
+
+1. Install Java JDK
+
+-Download JDK 17 from the official Oracle or OpenJDK website:
+
+-Oracle JDK
+
+-OpenJDK
+
+-Install JDK on your system (e.g., C:\Program Files\Java\jdk-17)
+
+-Set Environment Variables:
+
+-JAVA_HOME → C:\Program Files\Java\jdk-17
+
+-Add %JAVA_HOME%\bin to Path
+
+-Verify installation
+
+2. Install Apache Maven
+
+-Download Apache Maven from the official site:
+
+-Maven Download
+
+-Extract the ZIP file to a folder 
+
+-Set Environment Variables
+
+-MAVEN_HOME → C:\apache-maven-3.9.5
+
+-Add %MAVEN_HOME%\bin to Path
+
+-Verify installation
+
+3. Install Docker (for SonarQube)
+
+-Download Docker Desktop:
+
+-Docker
+
+-Install and start Docker Desktop
+
+-Verify installation
+
+4. Run SonarQube in Docker
+ -Pull the SonarQube LTS image
+ -Start SonarQube container
+ -Open SonarQube in browser
+ -Set new admin password
+
+5. Create SonarQube Project
+
+-In SonarQube UI → Projects → Create Project
+
+-Fill details:
+
+-Project display name: Collection Assignment
+
+-Project key: CollectionAssignment
+
+-Main branch: collections-practice
+
+-Generate user token for authentication (e.g., CollectionsTokens)
+
+6. Create Maven Project in Eclipse
+
+-New Maven Project → GroupId: com.sonar, ArtifactId: SonarQube
+
+-Default packaging: jar
+
+-Project structure:
+  src/main/java
+  src/test/java
+  pom.xml
+
+7. Configure pom.xml for SonarQube & JaCoCo
+
+8. Add Sample Java Code with JUnit Tests
+
+9. Generate JaCoCo Coverage Report.
+
+10. Run SonarQube Analysis
+
+11. Check SonarQube Dashboard
+
+Go to http://localhost:9000
+
+-Open project: CollectionAssignment → collections-practice
+
+-Review metrics:
+
+-Bugs
+
+-Vulnerabilities
+
+-Code Smells
+
+-Coverage
+
+-Duplications
+
+-Screenshot : Screenshot (2).png , Screenshot (3).png , Screenshot (4).png
+
+12. Approach / Methodology
+
+-Classroom approach:
+
+-Create Maven project → Add unit tests → Configure JaCoCo → Configure Sonar plugin → Run Maven commands → Verify results
+
+
+
