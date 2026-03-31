@@ -1,381 +1,913 @@
-Daily Progress Log – BridgeLabz(2215001139)
+## 🌟 BridgeLabz Training Progress Log
 
+## 
 
+## 📌 Program ID: 2215001139
 
-Overview :-
 
-This log documents the daily progress of tasks completed during the BridgeLabz training
 
-program (ID: 2215001139), as recorded in the repository’s README. Tasks are grouped
 
-by week with thematic headings, detailing the work done on each date and day.
 
 
 
-Folder Structure :-
+### 📖 Overview
 
 
 
-BridgeLabz-Training
+##### This repository documents my daily progress and learning journey during the BridgeLabz Training Program.
 
+##### The work is organized in a week-wise structured format, covering multiple domains such as:
 
+##### 
 
-│
+##### ✨ Core Java
 
+##### ✨ Object-Oriented Programming (OOPs)
 
+##### ✨ Data Structures \& Algorithms (DSA)
 
-├── core-java-practice (branch \& folder)
+##### ✨ Collections Framework
 
+##### ✨ Java 8 Features
 
+##### ✨ IO Programming \& System Design
 
-│ │
 
 
+### 🗂️ Folder Structure
 
-│ ├── gcr-codebase
 
 
 
-│ | ├── arrays
 
+##### BridgeLabz-Training
 
+##### │
 
-│ │ ├── control-flow
+##### ├── 💻 core-java-practice
 
+##### │   ├── gcr-codebase
 
+##### │   │   ├── arrays
 
-│ │ ├── extras
+##### │   │   ├── control-flow
 
+##### │   │   ├── extras
 
+##### │   │   ├── methods
 
-│ │ ├── methods
+##### │   │   ├── programming-elements
 
+##### │   │   └── strings
 
+##### │   ├── scenario-based
 
-│ │ ├── programming-elements
+##### │   └── leet-code-codebase
 
+##### │
 
+##### ├── 🧠 oops-practice
 
-│ | └── strings
+##### │   ├── gcr-codebase
 
+##### │   │   ├── access-modifier
 
+##### │   │   ├── class-object
 
-│ │
+##### │   │   ├── constructor
 
+##### │   │   ├── inheritance
 
+##### │   │   ├── instance
 
-│ ├── scenario-based
+##### │   │   ├── object-oriented-design
 
+##### │   │   ├── encapsulation-polymorphism
 
+##### │   │   └── this-static-final
 
-│ │
+##### │   ├── scenario-based
 
+##### │   └── leet-code-codebase
 
+##### │
 
-│ └── leet-code-codebase
+##### ├── ⚡ dsa-practice
 
+##### │   ├── gcr-codebase
 
+##### │   │   ├── linked-list
 
-|
+##### │   │   ├── hashmap
 
+##### │   │   ├── searching
 
+##### │   │   ├── sorting-algorithm
 
-├── oops-practice (branch \& folder)
+##### │   │   ├── stack-queue
 
+##### │   │   └── algorithm-runtime-analysis
 
+##### │   ├── scenario-based
 
-│ │
+##### │   └── leet-code-codebase
 
+##### │
 
+##### ├── 🔁 collections-practice
 
-│ ├── gcr-codebase
+##### ├── 📂 io-programming-practice
 
+##### ├── 🧵 multi-threading-practice
 
+##### ├── 🏗️ solution-designing-practice
 
-| | ├── access-modifier
+##### ├── 🗄️ jdbc-dbms-practice
 
+##### └── 📝 reviews
 
 
-| | ├── class-object
 
 
 
-| | ├── constructor
 
 
+### 🚀 Scenario-Based Projects
 
-│ │ ├── inheritance
 
 
+#### 💡 Core Java
 
-│ │ ├── instance
 
 
+* ###### BMI Fitness Tracker
+* ###### Bus Route
+* ###### Digital Watch
+* ###### Easy Coffee Counter ☕
+* ###### Election Booth
+* ###### Employee Wages
+* ###### Lucky Festival
+* ###### Line Comparison
+* ###### Metro Smart Card
+* ###### Movie Ticket
+* ###### Rohan Library
+* ###### Sandeep Fitness
+* ###### Snake and Ladder 🎲
 
-| | ├── object-oriented-design
 
 
 
-| | ├── encapsulation-polymorphism
 
+### 🧩 OOPs
 
 
-│ │ └── this-static-final
 
 
 
-│ │
+* ###### Cab Booking 🚕
+* ###### Digital Wallet Booking 💳
+* ###### Vehicle Rental App
+* ###### Traffic Manager
+* ###### Student Course System
+* ###### Real Book Arrangement
+* ###### Online Voting System
+* ###### Online Exam System
+* ###### Library Management 📚
+* ###### Inventory Management
+* ###### Hotel Reservation 🏨
+* ###### Hospital Management 🏥
+* ###### Flight Booking System ✈️
+* ###### Event Manager
+* ###### E-Commerce Management 🛒
+* ###### Bank System Management 💰
 
 
 
-│ ├── scenario-based
 
 
 
-│ │
 
+### 📅 Weekly Progress
 
 
-│ └── leet-code-codebase
 
 
 
-│
+#### 🟢 Week 1: Starting with Git and Java Fundamentals
 
 
 
-├── dsa-practice (branch \& folder)
+📅 16-Dec-2025 (Tuesday)
 
 
 
-│ │
+⚙️ Installed Eclipse
 
+🔗 Created GitHub repository BridgeLabz-Training
 
 
-│ ├── gcr-codebase
 
+📅 17-Dec-2025 (Wednesday)
 
 
-| | ├── linked-list
 
+📁 Linked local folder with repository
 
+💻 Solved LeetCode problems
 
-| | ├── hashmap
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebased
 
 
 
-| | ├── searching
+📅 18-Dec-2025 (Thursday)
 
 
 
-| | ├── sorting-algorithm
+📘 Learned programming elements
 
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
 
 
-| | ├── stack-queue
 
+📅 19-Dec-2025 (Friday)
 
 
-| | └── algorithm-runtime-analysis
 
+🔁 Learned control flow (if-else, loops, switch)
 
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
 
-│ ├── scenario-based
 
 
+📅 20-Dec-2025 (Saturday)
 
-│ │
 
 
+📊 Control-flow problems
 
-│ └── leet-code-codebase
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
 
+🔢 Arrays problems
 
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays
 
-│
 
 
 
-├── reviews (branch)
 
+#### 🟡 Week 2: Core Java Programming Concepts
 
 
 
+📅 22-Dec-2025 (Monday)
 
 
 
-Core Java Programming Scenario Based :
+🔤 Strings \& exception handling
 
-1. BMI Fitness Tracker
-2. Bus Route
-3. Digital Watch
-4. Easy Coffee Counter
-5. Election Booth
-6. Employee Wages
-7. Lucky Festival
-8. Line Comparision
-9. Metro Smart Card
-10. Movie Ticket
-11. Rohan Library
-12. Sandeep Fitness
-13. Snake and Ladder
 
 
+📅 23-Dec-2025 (Tuesday)
 
-Object Oriented Programming Scenario Based :
 
-1. Cab Booking
-2. Digit Wallet Booking
-3. Vehicle Rental App
-4. Traffic Manager
-5. Student Course System
-6. Real Book Arrangement
-7. Online Voting System
-8. Online Exam System
-9. Library Management
-10. Inventory Management
-11. Hotel Reservation
-12. Hospital Management
-13. Flight Booking System
-14. Event Manager
-15. ECommerce Management
 
-16.Bank System Management
+💻 String problems
 
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
 
 
-Weekly Progress :-
 
+📅 24-Dec-2025 (Wednesday)
 
 
-Week 1: Starting with Git and Java Fundamentals
 
-• 16-Dec-2025 (Tuesday): Installed eclipse and created GitHub repository named BridgeLabz-Training using basic git commands.
+🧠 Methods (user-defined \& recursive)
 
-• 17-Dec-2025 (Wednesday): Continue Working on linking folder with repository and repository structure . Also, solved leetcode problems using java.
-Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebased
 
-• 18-Dec-2025 (Thursday): Learnt about best coding practices \& programming elements. Completed and Submitted problems related to programming elements on GitHub.
-Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
 
-• 19-Dec-2025 (Friday): Studied about control flows in java like if-else, switch, while loop, do-while loop, for-loop and operators in java .Learned and Submitted problems related to java fundamentals. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
+📅 26-Dec-2025 (Friday)
 
-• 20-Dec-2025 (Saturday): Submitted problems related to control-flow on GitHub. Here it is link :  https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
-Got understanding of arrays in java and pushed all levels of array problems on GitHub. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays
 
 
+📘 Methods assignment
 
-Week 2: Core Java Programming Concepts
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods
 
 
 
-• 22-Dec-2025 (Monday): Started with java strings . Learnt about programming concepts in strings like basic string concepts, escape sequences, exception handling etc.
+📅 27-Dec-2025 (Saturday)
 
-• 23-Dec-2025 (Tuesday): Continue Working on java strings. Solved and submitted problems related to strings using java.
-Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings. Also, get to know about Trello Board which helps to track tasks, monitor progress and improve productivity. Solved scenario based questions using loops.
 
-• 24-Dec-2025 (Wednesday): Studied about java methods and their types like user defined methods and recursive methods . Properly structured repository and folder according to structure given by trainers.
 
-• 26-Dec-2025 (Friday): Submitted assignment of java methods. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods
-Learnt about common java built-in functions as well as date \& time built-in functions.
+🔤 Extra string problems
 
-• 27-Dec-2025 (Saturday): Submitted extra java strings practice problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
 
 
 
-Week 3: Core Java Completed -> Object-Oriented Programming Journey
 
 
+#### 🔵 Week 3: Core Java Completed → OOP Journey
 
-• 29-Dec-2025 (Monday): Submitted problems based on built-in functions using java. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
-Submitted all scenario based problems and LeetCode problems . Here is the link for scenario based problems :https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
-LeetCode Problems : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebased. Also, submitted employee wage problem . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/EmployeeWage.java
 
-• 30-Dec-2025 (Tuesday): Completed both line comparison problem and snake \& ladder problem using java . here is the link :
-Line Comparison Problem : https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LineComparison.java
 
-Snake \& Ladder Problem : https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/SnakeAndLadder.java
 
-Started with object-oriented programming concepts. Got the basic understanding of java classes and objects.
 
-• 31-Dec-2025 (Wednesday): Studied java constructors, instance vs class variables and access modifiers .Submitted problems related to java objects and classes . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object
 
-• 01-Jan-2026 (Thursday): Submitted problems related to java constructors . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor
-https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/instance
-https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/access-modifier
-Completed new material on this, static, final key words and instance .
 
-• 02-Jan-2026 (Friday): Done submission of assignment on this, static, final key words . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final
-Designed object \& class models and submitted them using Excalidraw . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design. Done with new material on topic inheritance .
+📅 29-Dec-2025 (Monday)
 
-• 03-Jan-2026 (Saturday): Submitted inheritance problems using java . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance
-Solved scenario based problems on oops concept .
 
 
+📘 Built-in functions
 
-Week 4: From Objects to Algorithms: A Journey into DSA
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 
+📂 Scenario Problems
 
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
 
-• 05-Jan-2026 (Monday): Worked on Assignment based on important oops concepts like encapsulation, polymorphism. Solved few scenario based problems using java.
+💻 LeetCode
 
-• 06-Jan-2026 (Tuesday): Submitted assignment on encapsulation, polymorphism. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism
-In addition to this, submitted LeetCode and scenario based problems. Here it is the link : LeetCode Problems => https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
-Scenario Based Problems => https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebased
 
-• 07-Jan-2026 (Wednesday):Started with Data Structures and Algorithm concept. Done and submitted two story based problems . Here it is the link :
+👨‍💼 Employee Wage
 
-Problem 1 : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/cab\_booking\*\*
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/EmployeeWage.java
 
-Problem 2 : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/bankSystemManagement\*\*
 
-• 08-Jan-2026 (Thursday): Solved and submitted linked list questions. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list
 
-• 09-Jan-2026 (Friday): Studied about stack, queue and hashMap. Solved and submitted oops-based scenario problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+📅 30-Dec-2025 (Tuesday)
 
 
 
-Week 5: Wrapping Up OOPs And Continuing DSA
+📏 Line Comparison
 
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LineComparison.java
 
+🎲 Snake \& Ladder
 
-• 12-Jan-2026 (Monday): Worked on more crud operation based scenario problems. Solved leetcode problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/SnakeAndLadder.java
 
-• 13-Jan-2026 (Tuesday): Submitted crud operation based scenario problems. Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
 
-Learnt about sorting alogorithms.
 
-• 14-Jan-2026 (Wednesday): Submitted stack, queue and hashMap problems .
-Here it is the link :
+📅 31-Dec-2025 (Wednesday)
 
-=> Stack and Queue : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue
-=> HashMap : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmap
 
-• 15-Jan-2026 (Thrusday): Implemented and Submitted sorting alogorithm problems . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithm
 
-Studied about various topics like linear search, binary search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader . Also, Learnt about four - architecture in java (Presentation Layer, Service Layer, DAO Layer, Model Layer).
+🧱 Classes \& Objects
 
-• 16-Jan-2026 (Friday): Understanded the algorithm's runtime analysis and big- O notation.
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object
 
-• 17-Jan-2026 (Saturday): Submitted searching problems using java . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/searching
 
 
+📅 01-Jan-2026 (Thursday)
 
-Week 6: Data Structures And Algorithms And Collection FrameWorks
 
 
+🏗️ Constructor, Instance, Access Modifiers
 
-• 19-Jan-2026 (Monday): Submitted algorithm's runtime analysis and big-O notation problems . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/alorithm-runtime-analysis
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor
 
-Submitted Address Book Problem using various concepts . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address\_book
 
-• 20-Jan-2026 (Tuesday): Submitted scenario based problems using dsa, oops and core java concepts . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based
 
-Studied about new topic : Java Generics . Also, made new branch named collections-practice for java collection framework .
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/instance
 
-• 21-Jan-2026 (Wednesday): Submitted problems related to java generics . Here it is the link : https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics
 
 
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/access-modifier
 
 
+
+📅 02-Jan-2026 (Friday)
+
+
+
+⚙️ Static, Final
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final
+
+🧩 Object Design
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design
+
+
+
+📅 03-Jan-2026 (Saturday)
+
+
+
+🔗 Inheritance
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance
+
+
+
+
+
+#### 🟣 Week 4: OOP → DSA
+
+
+
+
+
+
+
+📅 05-Jan-2026
+
+
+
+🔐 Encapsulation, Polymorphism
+
+
+
+📅 06-Jan-2026
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism
+
+
+
+📅 07-Jan-2026
+
+
+
+🚀 DSA Start
+
+
+
+📅 08-Jan-2026
+
+
+
+🔗 Linked List
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list
+
+
+
+📅 09-Jan-2026
+
+
+
+⚙️ Stack, Queue, HashMap
+
+
+
+
+
+#### 🟠 Week 5: Wrapping Up OOPs And Continuing DSA
+
+
+
+
+
+📅 12-Jan-2026 (Monday)
+
+
+
+🔄 Worked on CRUD-based scenario problems
+
+💻 Solved LeetCode problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
+
+
+
+📅 13-Jan-2026 (Tuesday)
+
+
+
+📂 Submitted CRUD-based scenario problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+📘 Learned sorting algorithms
+
+
+
+📅 14-Jan-2026 (Wednesday)
+
+
+
+⚙️ Submitted Stack \& Queue problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue
+
+🗂️ Submitted HashMap problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmap
+
+
+
+📅 15-Jan-2026 (Thursday)
+
+
+
+🔄 Implemented sorting algorithms
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithm
+
+📘 Studied:
+
+Linear Search \& Binary Search
+
+StringBuilder \& StringBuffer
+
+BufferedReader, FileReader, InputStreamReader
+
+🏛️ 4-Layer Architecture (Presentation, Service, DAO, Model)
+
+
+
+📅 16-Jan-2026 (Friday)
+
+
+
+📊 Learned algorithm runtime analysis \& Big-O notation
+
+
+
+📅 17-Jan-2026 (Saturday)
+
+
+
+🔍 Submitted searching problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/searching
+
+
+
+
+
+#### 🔴 Week 6: Data Structures And Algorithms And Collections Framework
+
+
+
+
+
+
+
+📅 19-Jan-2026 (Monday)
+
+
+
+📊 Submitted runtime analysis problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/alorithm-runtime-analysis
+
+📘 Address Book Problem
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address\_book
+
+
+
+📅 20-Jan-2026 (Tuesday)
+
+
+
+📂 Scenario-based problems (DSA + OOP + Core Java)
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based
+
+🧠 Learned Java Generics
+
+🌿 Created new branch: collections-practice
+
+
+
+📅 21-Jan-2026 (Wednesday)
+
+
+
+🔧 Submitted Generics problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics
+
+
+
+📅 22-Jan-2026 (Thursday)
+
+
+
+📚 Learned Java Collections Framework
+
+⚙️ Practiced collection-based problems
+
+
+
+📅 23-Jan-2026 (Friday)
+
+
+
+📂 Submitted Collections problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections
+
+🌊 Learned Java Streams API
+
+#### 
+
+#### 🟤 Week 7: Java Collections \& Core Revision
+
+
+
+
+
+
+
+📅 26-Jan-2026 (Monday)
+
+
+
+🌊 Submitted Java Streams problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/java-streams
+
+⚠️ Started Exception Handling
+
+
+
+📅 27-Jan-2026 (Tuesday)
+
+
+
+⚠️ Submitted Exception Handling problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions
+
+🧩 Lexical Twist Problem
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LexicalTwist.java
+
+
+
+📅 28-Jan-2026 (Wednesday)
+
+
+
+📂 Added scenario-based problems in collections branch
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based
+
+
+
+📅 29-Jan-2026 (Thursday)
+
+
+
+🧪 Learned JUnit \& Regex concepts
+
+
+
+📅 30-Jan-2026 (Friday)
+
+
+
+🔍 Submitted Regex problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex
+
+🧪 Submitted JUnit problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/j-unit/JUnit
+
+
+
+📅 31-Jan-2026 (Saturday)
+
+
+
+🔑 Flip Key Problem
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/FlipKey.java
+
+
+
+📅 01-Feb-2026 (Sunday)
+
+
+
+🚚 Future Logistic Problem
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/futureLogistic
+
+
+
+
+
+#### ⚫ Week 8: Java 8 Features \& IO Programming
+
+
+
+
+
+
+
+📅 02-Feb-2026 (Monday)
+
+
+
+🧩 Annotation problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotation
+
+🔍 Reflection problems
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection
+
+📂 CSV Data Handling
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-data-handling
+
+✈️ AeroVigil Problem
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/aeroVigil
+
+
+
+📅 03-Feb-2026 (Tuesday)
+
+
+
+🌊 Stream Buzz Problem
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/streamBuzz
+
+📄 JSON Project
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json-data/JSONProject
+
+🤖 Robot Hazard Analyzer
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/robotHazardAnalyzer
+
+
+
+📅 04-Feb-2026 (Wednesday)
+
+
+
+🐳 Worked on SonarQube + Docker project
+
+🔁 Updated JSON Project
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json-data/JSONProject
+
+⚡ Lambda Expressions
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-expression
+
+🌊 Stream API
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/stream-api
+
+🔗 Functional Interfaces
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/functional-interface
+
+
+
+📅 05-Feb-2026 (Thursday)
+
+
+
+🧠 Studied solution designing principles
+
+
+
+📅 06-Feb-2026 (Friday)
+
+
+
+🔧 Restructured collections-practice branch
+
+
+
+📅 07-Feb-2026 (Saturday)
+
+
+
+🌊 Ocean Fleet Problem
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/oceanFleet
+
+🧮 Java Collectors
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors
+
+
+
+📅 08-Feb-2026 (Sunday)
+
+
+
+🏗️ Design Patterns Project
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/gcr-codebase/design-patterns/smartLibraryManagementSystem
+
+🧵 Multithreading
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/Multi-Threading
+
+
+
+
+
+
+
+#### ⚪ Week 9: Revision \& M1 Preparation
+
+
+
+
+
+
+
+📅 09-Feb-2026 (Monday)
+
+
+
+🧪 Test Case Problem
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/testCase
+
+🐳 SonarQube Project
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/sonarqube/sonarqube
+
+
+
+📅 10–12 Feb 2026
+
+
+
+📘 Practiced for M1 Exam
+
+
+
+📅 13-Feb-2026 (Friday)
+
+
+
+🗄️ JDBC Project
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/jdbc-dbms-practice/jdbc-dbms-practice/gcr-codebase/healthclinic
+
+
+
+📅 17-Mar-2026 (Tuesday)
+
+
+
+🧩 M1 Questions
+
+🔗 https://github.com/BlueMoon0604/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based/m1Questions
+
+
+
+
+
+### 🏆 Key Highlights
+
+
+
+
+
+
+
+✨ Strong foundation in Java \& OOPs
+
+✨ Hands-on DSA problem solving
+
+✨ Experience with real-world projects
+
+✨ Exposure to System Design \& Tools (Docker, SonarQube)
+
+✨ Continuous learning \& consistency
+
+
+
+
+
+### 📌 Conclusion
+
+
+
+
+
+This repository represents my complete learning journey during BridgeLabz training — combining:
+
+
+
+✔️ Theory
+
+✔️ Practical Implementation
+
+✔️ Problem Solving
+
+✔️ Real-world Scenarios
+
+
+
+#### ✨ “Consistency + Practice = Growth 🚀”
 
